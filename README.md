@@ -1,15 +1,15 @@
 # The Age of AI: A Conversation with Eric Schmidt
 
-**Event Details:**
+##### Event Details:
 - Course: Stanford ECON295/CS323 2024
 - Format: Interview
 - Interviewer: Erik Brynjolfsson
 - Interviewee: Eric Schmidt
 
-**Description:**
+##### Description:
 A transcript of a discussion exploring the current state and future implications of artificial intelligence, featuring insights from tech industry leader Eric Schmidt.
 
-**Transcript:**
+### Transcript
 Erik: Today's guest really does need an introduction. I think I first met Eric about 25 years ago when he came to Stanford Business School as CEO of Novell. He's had done a few things since then at Google starting I think 2001 and Schmidt Futures starting in 2017 and done a whole bunch of other things you can read about, but he can only be here until 5:15, so I thought we'd dive right into some questions, and I know you guys have sent some as well. I have a bunch written here, but what we just talked about upstairs was even more interesting, so I'm just going to start with that, Eric, if that's okay, which is where do you see AI going in the short term, which I think you defined as the next year or two? 
 
 Eric: Things have changed so fast, I feel like every six months I need to sort of give a new speech on what's going to happen. Can anybody hear the computer, the budget computer science engineer, can anybody explain what a million-token context window is for the rest of the class? 
