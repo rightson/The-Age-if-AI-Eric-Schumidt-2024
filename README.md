@@ -9,6 +9,10 @@
 ##### Description:
 A transcript of a discussion exploring the current state and future implications of artificial intelligence, featuring insights from tech industry leader Eric Schmidt.
 
+### Reference
+- Video: https://x.com/quasa0/status/1823933017217482883?s=46&t=DEO0bKkIXt-fCiXdzFJH8g
+- Transcript: https://github.com/orange2ai/note_files/blob/main/Stanford_ECON295%E2%A7%B8CS323_I_2024_I_The_Age_of_AI%2C_Eric_Schmidt.txt?fbclid=IwY2xjawEt5rtleHRuA2FlbQIxMAABHd2jEkPRGl83-MOImYIQoiLzy_EhXKs25TCkbZITgtXPrZ5kX3iY-w0PZg_aem_qQcEZQ_nW_thOAeb385TMg
+
 ### Transcript
 Erik: Today's guest really does need an introduction. I think I first met Eric about 25 years ago when he came to Stanford Business School as CEO of Novell. He's had done a few things since then at Google starting I think 2001 and Schmidt Futures starting in 2017 and done a whole bunch of other things you can read about, but he can only be here until 5:15, so I thought we'd dive right into some questions, and I know you guys have sent some as well. I have a bunch written here, but what we just talked about upstairs was even more interesting, so I'm just going to start with that, Eric, if that's okay, which is where do you see AI going in the short term, which I think you defined as the next year or two? 
 
